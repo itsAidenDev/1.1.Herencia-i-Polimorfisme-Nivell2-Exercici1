@@ -1,5 +1,5 @@
 
-# 1.1. Inheritance and polymosphism (Level 1 - Exercise 2)
+# 1.1. Inheritance and polymosphism (Level 2 - Exercise 1)
 
 ## Project Description 📄
 
